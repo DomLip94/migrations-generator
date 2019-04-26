@@ -1,4 +1,5 @@
-<?php namespace Xethron\MigrationsGenerator;
+<?php
+namespace Domlip\MigrationsGenerator;
 
 use Mockery;
 use PHPUnit_Framework_TestCase;

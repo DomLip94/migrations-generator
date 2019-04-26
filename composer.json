@@ -14,14 +14,14 @@
 		}
 	],
 	"require": {
-		"php": ">=5.4.0",
+		"php": ">=7.1.0",
 		"illuminate/support": ">=4.1",
-		"xethron/laravel-4-generators": "~3.1.0",
+		"do/laravel-4-generators": "~3.1.0",
 		"doctrine/dbal": "~2.4"
 	},
 	"autoload": {
 		"psr-0": {
-			"Xethron\\MigrationsGenerator": "src/"
+			"Domlip\\MigrationsGenerator": "src/"
 		}
 	},
 	"require-dev": {
@@ -34,7 +34,7 @@
 		"laravel": {
 			"providers": [
 				"Way\\Generators\\GeneratorsServiceProvider",
-				"Xethron\\MigrationsGenerator\\MigrationsGeneratorServiceProvider"
+				"Domlip\\MigrationsGenerator\\MigrationsGeneratorServiceProvider"
 			]
 		}
 	}

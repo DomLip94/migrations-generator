@@ -1,4 +1,5 @@
-<?php namespace Xethron\MigrationsGenerator\Generators;
+<?php
+namespace Domlip\MigrationsGenerator\Generators;
 
 use DB;
 

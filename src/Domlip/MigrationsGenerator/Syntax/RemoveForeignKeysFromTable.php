@@ -1,8 +1,9 @@
-<?php namespace Xethron\MigrationsGenerator\Syntax;
+<?php
+namespace Domlip\MigrationsGenerator\Syntax;
 
 /**
  * Class RemoveForeignKeysFromTable
- * @package Xethron\MigrationsGenerator\Syntax
+ * @package Domlip\MigrationsGenerator\Syntax
  */
 class RemoveForeignKeysFromTable extends Table {
 

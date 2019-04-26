@@ -1,4 +1,5 @@
-<?php namespace Xethron\MigrationsGenerator;
+<?php
+namespace Domlip\MigrationsGenerator;
 
 use Way\Generators\Commands\GeneratorCommand;
 use Symfony\Component\Console\Input\InputOption;
@@ -9,11 +10,11 @@ use Way\Generators\Filesystem\Filesystem;
 use Way\Generators\Compilers\TemplateCompiler;
 use Illuminate\Database\Migrations\MigrationRepositoryInterface;
 
-use Xethron\MigrationsGenerator\Generators\SchemaGenerator;
-use Xethron\MigrationsGenerator\Syntax\AddToTable;
-use Xethron\MigrationsGenerator\Syntax\DroppedTable;
-use Xethron\MigrationsGenerator\Syntax\AddForeignKeysToTable;
-use Xethron\MigrationsGenerator\Syntax\RemoveForeignKeysFromTable;
+use Domlip\MigrationsGenerator\Generators\SchemaGenerator;
+use Domlip\MigrationsGenerator\Syntax\AddToTable;
+use Domlip\MigrationsGenerator\Syntax\DroppedTable;
+use Domlip\MigrationsGenerator\Syntax\AddForeignKeysToTable;
+use Domlip\MigrationsGenerator\Syntax\RemoveForeignKeysFromTable;
 
 use Illuminate\Contracts\Config\Repository as Config;
 
@@ -52,7 +53,7 @@ class MigrateGenerateCommand extends GeneratorCommand {
 	protected $config;
 
 	/**
-	 * @var \Xethron\MigrationsGenerator\Generators\SchemaGenerator
+	 * @var \Domlip\MigrationsGenerator\Generators\SchemaGenerator
 	 */
 	protected $schemaGenerator;
 

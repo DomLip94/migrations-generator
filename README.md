@@ -22,7 +22,7 @@ In older versions of the framework edit `config/app.php` and add this to provide
 
 ```php
 Way\Generators\GeneratorsServiceProvider::class,
-Xethron\MigrationsGenerator\MigrationsGeneratorServiceProvider::class,
+Domlip\MigrationsGenerator\MigrationsGeneratorServiceProvider::class,
 ```
 If you want this lib only for dev, you can add the following code to your `app/Providers/AppServiceProvider.php` file, within the `register()` method:
 
@@ -31,7 +31,7 @@ public function register()
 {
     if ($this->app->environment() !== 'production') {
         $this->app->register(\Way\Generators\GeneratorsServiceProvider::class);
-        $this->app->register(\Xethron\MigrationsGenerator\MigrationsGeneratorServiceProvider::class);
+        $this->app->register(\Domlip\MigrationsGenerator\MigrationsGeneratorServiceProvider::class);
     }
     // ...
 }
@@ -53,7 +53,7 @@ Next, add the following service providers:
 
 ```php
 'Way\Generators\GeneratorsServiceProvider',
-'Xethron\MigrationsGenerator\MigrationsGeneratorServiceProvider',
+'Domlip\MigrationsGenerator\MigrationsGeneratorServiceProvider',
 ```
 
 And you're set. To double check if its working, run `php artisan`, and look for the command `migrate:generate`
