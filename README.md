@@ -122,10 +122,12 @@ Changelog for Laravel Migrations Generator
 
 ## Thank You
 
-Thanks to Jeffrey Way for his amazing Laravel-4-Generators package. This package depends greatly on his work.
+Thanks to Jeffrey Way for his amazing Laravel-4-Generators package. This package depends greatly on his work. 
+Thank you to Bernhard Breytenbach for his version of the package.
 
 ## Contributors
 
+Dominic Lipscombe ([@Domlip94](https://twitter.com/Domlip94))
 Bernhard Breytenbach ([@BBreyten](https://twitter.com/BBreyten))
 
 ## License
