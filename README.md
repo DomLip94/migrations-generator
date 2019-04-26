@@ -1,11 +1,5 @@
 # Laravel Migrations Generater
 
-[![Build Status](https://travis-ci.org/domlip94/migrations-generator.svg)](https://travis-ci.org/domlip94/migrations-generator)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/domlip94/migrations-generator/badges/quality-score.png)](https://scrutinizer-ci.com/g/Xethron/migrations-generator/)
-[![Latest Stable Version](https://poser.pugx.org/domlip94/migrations-generator/v/stable.png)](https://packagist.org/packages/xethron/migrations-generator)
-[![Total Downloads](https://poser.pugx.org/domlip94/migrations-generator/downloads.png)](https://packagist.org/packages/xethron/migrations-generator)
-[![License](https://poser.pugx.org/domlip94/migrations-generator/license.png)](https://packagist.org/packages/xethron/migrations-generator)
-
 Generate Laravel Migrations from an existing database, including indexes and foreign keys!
 
 This is a new fork of (https://github.com/Xethron/migrations-generator). I intend to keep this up to date and add new features.
