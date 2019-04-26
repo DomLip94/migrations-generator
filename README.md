@@ -1,12 +1,14 @@
-# Laravel Migrations Generator
+# Laravel Migrations Generater
 
-[![Build Status](https://travis-ci.org/Xethron/migrations-generator.svg)](https://travis-ci.org/Xethron/migrations-generator)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Xethron/migrations-generator/badges/quality-score.png?s=41d919c6d044749cb8575bb936efbddc4cebc0d8)](https://scrutinizer-ci.com/g/Xethron/migrations-generator/)
-[![Latest Stable Version](https://poser.pugx.org/xethron/migrations-generator/v/stable.png)](https://packagist.org/packages/xethron/migrations-generator)
-[![Total Downloads](https://poser.pugx.org/xethron/migrations-generator/downloads.png)](https://packagist.org/packages/xethron/migrations-generator)
-[![License](https://poser.pugx.org/xethron/migrations-generator/license.png)](https://packagist.org/packages/xethron/migrations-generator)
+[![Build Status](https://travis-ci.org/domlip94/migrations-generator.svg)](https://travis-ci.org/domlip94/migrations-generator)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/domlip94/migrations-generator/badges/quality-score.png](https://scrutinizer-ci.com/g/Xethron/migrations-generator/)
+[![Latest Stable Version](https://poser.pugx.org/domlip94/migrations-generator/v/stable.png)](https://packagist.org/packages/xethron/migrations-generator)
+[![Total Downloads](https://poser.pugx.org/domlip94/migrations-generator/downloads.png)](https://packagist.org/packages/xethron/migrations-generator)
+[![License](https://poser.pugx.org/domlip94/migrations-generator/license.png)](https://packagist.org/packages/xethron/migrations-generator)
 
 Generate Laravel Migrations from an existing database, including indexes and foreign keys!
+
+This is a new fork of (https://github.com/Xethron/migrations-generator). I intend to keep this up to date and add new features.
 
 ## Upgrading to Laravel 5.4
 
@@ -79,6 +81,9 @@ Check out Chung Tran's blog post for a quick step by step introduction: [Generat
 ## Changelog
 
 Changelog for Laravel Migrations Generator
+
+### 26 April 2019: v3.0.0
+* Updated required class imports
 
 ### 20 November 2016: v2.0.0
 * Support for Laravel 5
