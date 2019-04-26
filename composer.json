@@ -16,7 +16,7 @@
 	"require": {
 		"php": ">=7.1.0",
 		"illuminate/support": ">=4.1",
-		"do/laravel-4-generators": "~3.1.0",
+		"domlip94/laravel-4-generators": ">=4.1.0",
 		"doctrine/dbal": "~2.4"
 	},
 	"autoload": {

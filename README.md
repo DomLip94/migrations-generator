@@ -6,7 +6,7 @@ This is a new fork of (https://github.com/Xethron/migrations-generator). I inten
 
 ## Upgrading to Laravel 5.4
 
-Please note that the Laravel 4 Generator edits have been moved to `https://github.com/xethron/Laravel-4-Generators.git` to update compatibility.
+Please note that the Laravel 4 Generator edits have been moved to `https://github.com/domlip94/Laravel-4-Generators.git` to update compatibility.
 
 ## Laravel 5 installation
 
@@ -46,7 +46,7 @@ Notes:
 Run the following composer command:
 
 ```bash
-composer require --dev "domlip94/migrations-generator:~1.3.0"
+composer require --dev "domlip94/migrations-generator"
 ```
 
 Next, add the following service providers:
@@ -122,10 +122,12 @@ Changelog for Laravel Migrations Generator
 
 ## Thank You
 
-Thanks to Jeffrey Way for his amazing Laravel-4-Generators package. This package depends greatly on his work.
+Thanks to Jeffrey Way for his amazing Laravel-4-Generators package. This package depends greatly on his work. 
+Thank you to Bernhard Breytenbach for his version of the package.
 
 ## Contributors
 
+Dominic Lipscombe ([@Domlip94](https://twitter.com/Domlip94))
 Bernhard Breytenbach ([@BBreyten](https://twitter.com/BBreyten))
 
 ## License
