@@ -46,7 +46,7 @@ Notes:
 Run the following composer command:
 
 ```bash
-composer require --dev "domlip94/migrations-generator:~1.3.0"
+composer require --dev "domlip94/migrations-generator"
 ```
 
 Next, add the following service providers:
