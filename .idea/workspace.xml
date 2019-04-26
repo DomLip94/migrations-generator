@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff65231f-7d6d-49d3-95ab-31557b7d45e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xethron/MigrationsGenerator/Generators/FieldGenerator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Generators/FieldGenerator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xethron/MigrationsGenerator/Generators/ForeignKeyGenerator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Generators/ForeignKeyGenerator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xethron/MigrationsGenerator/Generators/IndexGenerator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Generators/IndexGenerator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xethron/MigrationsGenerator/Generators/SchemaGenerator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Generators/SchemaGenerator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xethron/MigrationsGenerator/MigrateGenerateCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/MigrateGenerateCommand.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xethron/MigrationsGenerator/MigrationsGeneratorServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/MigrationsGeneratorServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xethron/MigrationsGenerator/Syntax/AddForeignKeysToTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Syntax/AddForeignKeysToTable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xethron/MigrationsGenerator/Syntax/AddToTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Syntax/AddToTable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xethron/MigrationsGenerator/Syntax/DroppedTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Syntax/DroppedTable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xethron/MigrationsGenerator/Syntax/RemoveForeignKeysFromTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Syntax/RemoveForeignKeysFromTable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xethron/MigrationsGenerator/Syntax/Table.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Syntax/Table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Xethron/MigrationsGenerator/MigrationsGeneratorServiceProviderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Xethron/MigrationsGenerator/MigrationsGeneratorServiceProviderTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Xethron/MigrationsGenerator/MigrationsGeneratorTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Xethron/MigrationsGenerator/MigrationsGeneratorTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Xethron/MigrationsGenerator/MigrationsGeneratorServiceProviderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Domlip/MigrationsGenerator/MigrationsGeneratorServiceProviderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Xethron/MigrationsGenerator/MigrationsGeneratorTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Domlip/MigrationsGenerator/MigrationsGeneratorTest.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,16 +20,25 @@
         <entry file="file://$PROJECT_DIR$/src/Domlip/MigrationsGenerator/MigrationsGeneratorServiceProvider.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="395">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Generators/FieldGenerator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2385">
+              <caret line="159" column="5" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Generators/FieldGenerator.php">
+        <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2091">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state relative-caret-position="255">
+              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -51,16 +47,16 @@
         <entry file="file://$PROJECT_DIR$/src/Domlip/MigrationsGenerator/MigrateGenerateCommand.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="374" column="57" lean-forward="true" selection-start-line="374" selection-start-column="57" selection-end-line="374" selection-end-column="57" />
+              <caret line="374" column="57" selection-start-line="374" selection-start-column="57" selection-end-line="374" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Xethron/MigrationsGenerator/MigrationsGeneratorServiceProviderTest.php">
+        <entry file="file://$PROJECT_DIR$/tests/Domlip/MigrationsGenerator/MigrationsGeneratorServiceProviderTest.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="77">
-              <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+              <caret line="130" selection-start-line="130" selection-end-line="130" />
             </state>
           </provider>
         </entry>
@@ -82,7 +78,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/MigrationsGeneratorServiceProvider.php" />
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Syntax/Table.php" />
         <option value="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Generators/ForeignKeyGenerator.php" />
@@ -96,6 +91,7 @@
         <option value="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Syntax/DroppedTable.php" />
         <option value="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/MigrateGenerateCommand.php" />
         <option value="$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Syntax/AddForeignKeysToTable.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
       </list>
     </option>
   </component>
@@ -154,6 +150,11 @@
               <item name="MigrationsGenerator" type="462c0819:PsiDirectoryNode" />
               <item name="Generators" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="migrations-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="migrations-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -162,6 +163,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -189,12 +191,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556289796517</updated>
-      <workItem from="1556289797778" duration="646000" />
+      <workItem from="1556289797778" duration="940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="646000" />
+    <option name="totallyTimeSpent" value="940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="951" extended-state="0" />
@@ -228,28 +230,35 @@
     <entry file="file://$PROJECT_DIR$/src/Domlip/MigrationsGenerator/MigrateGenerateCommand.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="374" column="57" lean-forward="true" selection-start-line="374" selection-start-column="57" selection-end-line="374" selection-end-column="57" />
+          <caret line="374" column="57" selection-start-line="374" selection-start-column="57" selection-end-line="374" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Xethron/MigrationsGenerator/MigrationsGeneratorServiceProviderTest.php">
+    <entry file="file://$PROJECT_DIR$/tests/Domlip/MigrationsGenerator/MigrationsGeneratorServiceProviderTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="77">
-          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Domlip/MigrationsGenerator/MigrationsGeneratorServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Domlip/MigrationsGenerator/Generators/FieldGenerator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2091">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state relative-caret-position="2385">
+          <caret line="159" column="5" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
         </state>
       </provider>
     </entry>
