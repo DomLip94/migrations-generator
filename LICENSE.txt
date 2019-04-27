@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2014 Bernhard Breytenbach
+Original (c) 2014 Bernhard Breytenbach
+2019+ (c) Dominic Lipscombe <dominic.lipscombe@spidergroup.co.uk>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
