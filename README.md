@@ -6,7 +6,7 @@ This is a new fork of (https://github.com/Xethron/migrations-generator). I inten
 
 ## Upgrading to Laravel 5.4
 
-Please note that the Laravel 4 Generator edits have been moved to `https://github.com/domlip94/Laravel-4-Generators.git` to update compatibility.
+Please note that the Laravel 4 Generator have been moved to `https://github.com/domlip94/Laravel-4-Generators.git` to ensure I can keep it current. It still uses the original namespace `Way`
 
 ## Laravel 5 installation
 
